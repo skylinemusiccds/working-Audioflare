@@ -1,0 +1,17 @@
+A Material 3 Music Streaming Platform for Android
+
+<br><b>Features:</b>
+
+- Play songs without ads
+- Background playback
+- Search songs, videos, albums, and playlists from AudioFlare Database
+- Library management
+- Cache and download songs for offline playback
+- Synchronized lyrics
+- Skip silence
+- Audio normalization
+- Dynamic theme
+- Localization
+- Android Auto support
+- Personalized quick picks
+- Material 3
