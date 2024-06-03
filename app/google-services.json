@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123539981614",
+    "project_id": "universe-52290",
+    "storage_bucket": "universe-52290.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123539981614:android:e0b80e9aaf7b89b99466bf",
+        "android_client_info": {
+          "package_name": "com.universe.audioflare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123539981614-cfrm87fslmege4b354lss36k0n02el34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpaiJHjNSI4l3yQmCPHzdwGlUG1DD1tfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123539981614-cfrm87fslmege4b354lss36k0n02el34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
